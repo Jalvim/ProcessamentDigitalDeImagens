@@ -1,0 +1,1 @@
+Para rodar o código e gerar todas as imagens e respectivas taxas, mande o matlab executar o código Script_Main.

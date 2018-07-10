@@ -1,0 +1,3 @@
+
+
+--> Para fazer os algoritmos relativos ao lab02 funcionarem basta rodar o arquivo Script_main.m. Os resultados, imagens, estarão situados nas pastas 'outputs1', para a 1a questão, e 'outputs2', para a segunda questão.

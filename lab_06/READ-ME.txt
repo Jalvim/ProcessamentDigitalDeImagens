@@ -1,0 +1,1 @@
+Para gerar as imagens de acordo com as questões propostas no roteiro, basta rodar o código "Script_Main". As imagens solicitadas para cada questão estarão hospedadas em suas respectivas pastas. 
